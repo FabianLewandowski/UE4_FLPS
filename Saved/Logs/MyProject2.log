@@ -1,0 +1,1397 @@
+﻿Log file open, 06/19/20 01:28:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.104836
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:8080'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Paragon/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.18-23.28.34:115][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.18-23.28.34:115][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.18-23.28.34:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:115][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:116][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.18-23.28.34:116][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.18-23.28.34:117][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.18-23.28.34:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.18-23.28.34:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.18-23.28.34:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.18-23.28.34:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.18-23.28.34:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:178][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:178][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.18-23.28.34:178][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.18-23.28.34:178][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:178][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.18-23.28.34:178][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:178][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.18-23.28.34:178][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.18-23.28.34:179][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.18-23.28.34:180][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.18-23.28.34:181][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.18-23.28.34:182][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.18-23.28.34:200][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.18-23.28.34:204][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.18-23.28.34:244][  0]LogHAL: Display: Platform has ~ 16 GB [17054511104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.18-23.28.34:245][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.18-23.28.34:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.18-23.28.34:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.18-23.28.34:246][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.18-23.28.34:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.18-23.28.34:248][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.18-23.28.34:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.18-23.28.34:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.18-23.28.34:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Scalability.ini]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.18-23.28.34:252][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.18-23.28.34:266][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.18-23.28.34:266][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.18-23.28.34:266][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ProjectUe/UE4_FLPS/Saved/Config/Windows/Engine.ini]
+[2020.06.18-23.28.34:327][  0]LogInit: Computer: GIGABYTE
+[2020.06.18-23.28.34:327][  0]LogInit: User: psGame
+[2020.06.18-23.28.34:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.18-23.28.34:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.18-23.28.34:336][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.18-23.28.34:336][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.18-23.28.34:336][  0]LogMemory: Process Physical Memory: 105.30 MB used, 105.31 MB peak
+[2020.06.18-23.28.34:336][  0]LogMemory: Process Virtual Memory: 100.49 MB used, 100.49 MB peak
+[2020.06.18-23.28.34:336][  0]LogMemory: Physical Memory: 7522.70 MB used,  8741.75 MB free, 16264.45 MB total
+[2020.06.18-23.28.34:336][  0]LogMemory: Virtual Memory: 5152.06 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.06.18-23.28.34:363][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.18-23.28.34:942][  0]LogInit: Using OS detected language (pl-PL).
+[2020.06.18-23.28.34:942][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.06.18-23.28.34:943][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.06.18-23.28.34:943][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.06.18-23.28.34:943][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.06.18-23.28.34:943][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.06.18-23.28.34:944][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.06.18-23.28.34:957][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.06.18-23.28.34:958][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.06.18-23.28.34:958][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.06.18-23.28.35:095][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.18-23.28.35:492][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.18-23.28.35:492][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.18-23.28.36:589][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.18-23.28.36:589][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.18-23.28.36:589][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.18-23.28.36:589][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.18-23.28.36:671][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.18-23.28.36:672][  0]LogD3D11RHI:       8088/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.18-23.28.36:696][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.06.18-23.28.36:696][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.18-23.28.36:698][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.18-23.28.36:698][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.18-23.28.36:698][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.18-23.28.36:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.18-23.28.36:736][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.18-23.28.36:736][  0]LogWindows: EnumDisplayDevices:
+[2020.06.18-23.28.36:737][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.06.18-23.28.36:737][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.06.18-23.28.36:737][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.18-23.28.36:737][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.18-23.28.36:738][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.06.18-23.28.36:738][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.06.18-23.28.36:738][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.06.18-23.28.36:738][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.06.18-23.28.36:738][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.18-23.28.36:738][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2020.06.18-23.28.36:738][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2020.06.18-23.28.36:738][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.18-23.28.36:777][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.18-23.28.36:787][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.18-23.28.37:082][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.18-23.28.37:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.18-23.28.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.18-23.28.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.18-23.28.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.18-23.28.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.18-23.28.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.18-23.28.37:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.18-23.28.37:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.18-23.28.37:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.18-23.28.37:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.18-23.28.37:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.18-23.28.37:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.18-23.28.37:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.18-23.28.37:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.18-23.28.37:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.18-23.28.37:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.18-23.28.37:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.18-23.28.37:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.18-23.28.37:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.18-23.28.37:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.18-23.28.37:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.18-23.28.37:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.18-23.28.37:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.18-23.28.37:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.18-23.28.37:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.18-23.28.38:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.18-23.28.38:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.18-23.28.38:014][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.18-23.28.38:080][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.18-23.28.38:454][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../ProjectUe/UE4_FLPS/Intermediate/Shaders/WorkingDirectory/9120/).
+[2020.06.18-23.28.38:454][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/psGame/AppData/Local/Temp/UnrealShaderWorkingDir/71A70B0D48193530F64A00B45CAE384D/'.
+[2020.06.18-23.28.38:472][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.18-23.28.38:472][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.18-23.28.38:472][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.18-23.28.40:161][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: Loaded boot cache 0.21s 78MB C:/Users/psGame/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/psGame/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectUe/UE4_FLPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectUe/UE4_FLPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.18-23.28.40:372][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.18-23.28.40:417][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.18-23.28.40:417][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.18-23.28.40:417][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.18-23.28.40:418][  0]LogDerivedDataCache: Using Local data cache path C:/Users/psGame/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.18-23.28.40:418][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.18-23.28.40:418][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.18-23.28.40:547][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.18-23.28.40:621][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.18-23.28.40:710][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.18-23.28.41:364][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2020.06.18-23.28.45:304][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.18-23.28.46:315][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.18-23.28.46:316][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.18-23.28.46:316][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.18-23.28.46:316][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.18-23.28.46:316][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.18-23.28.46:653][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 813727915)
+[2020.06.18-23.28.58:880][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047332 seconds
+[2020.06.18-23.28.58:917][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.18-23.28.58:917][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.18-23.28.58:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.18-23.29.02:402][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.18-23.29.02:438][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.18-23.29.02:948][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.02:965][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.03:003][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.03:024][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.03:043][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.03:932][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.18-23.29.04:027][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.18-23.29.04:027][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.18-23.29.04:476][  0]LogOcInput: OculusInput pre-init called
+[2020.06.18-23.29.04:520][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.18-23.29.04:520][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.18-23.29.06:193][  0]LogEngine: Initializing Engine...
+[2020.06.18-23.29.06:217][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.18-23.29.06:340][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.034 s
+[2020.06.18-23.29.07:097][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.18-23.29.07:658][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.18-23.29.07:809][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-23.29.07:809][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-23.29.07:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-23.29.07:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-23.29.07:809][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-23.29.07:810][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-23.29.07:810][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-23.29.07:810][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-23.29.07:812][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-23.29.07:813][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Name: Słuchawki (4 — SteelSeries Arctis 7 Game)
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-23.29.07:938][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-23.29.07:956][  0]LogAudioMixer: Display: Using Audio Device Słuchawki (4 — SteelSeries Arctis 7 Game)
+[2020.06.18-23.29.07:978][  0]LogInit: FAudioDevice initialized.
+[2020.06.18-23.29.07:979][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.18-23.29.08:053][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/psGame/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.18-23.29.08:067][  0]LogInit: Texture streaming: Enabled
+[2020.06.18-23.29.08:225][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.18-23.29.08:225][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.18-23.29.08:237][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.18-23.29.08:596][  0]LogInit: Transaction tracking system initialized
+[2020.06.18-23.29.08:889][  0]BlueprintLog: New page: Editor Load
+[2020.06.18-23.29.09:831][  0]LocalizationService: Localization service is disabled
+[2020.06.18-23.29.12:302][  0]LogFileCache: Scanning file cache for directory 'D:/ProjectUe/UE4_FLPS/Content/' took 0.02s
+[2020.06.18-23.29.12:302][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.18-23.29.12:302][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.18-23.29.14:783][  0]SourceControl: Source control is disabled
+[2020.06.18-23.29.14:818][  0]Cmd: MAP LOAD FILE="../../../../../ProjectUe/UE4_FLPS/Content/MC/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.18-23.29.14:831][  0]LightingResults: New page: Lighting Build
+[2020.06.18-23.29.15:014][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.29.15:035][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-23.29.15:075][  0]MapCheck: New page: Map Check
+[2020.06.18-23.29.15:075][  0]LightingResults: New page: Lighting Build
+[2020.06.18-23.29.15:558][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.06.18-23.29.17:024][  0]LogAIModule: Creating AISystem for world Menu
+[2020.06.18-23.29.17:617][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.18-23.29.17:855][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.06.18-23.29.17:872][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.18-23.29.17:872][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,582ms to complete.
+[2020.06.18-23.29.17:872][  0]LogFileHelpers: Loading map 'Menu' took 3.055
+[2020.06.18-23.29.20:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-23.29.20:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-23.29.20:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-23.29.20:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-23.29.20:410][  0]LogCollectionManager: Loaded 0 collections in 0.000643 seconds
+[2020.06.18-23.29.20:484][  0]LogFileCache: Scanning file cache for directory 'D:/ProjectUe/UE4_FLPS/Saved/Collections/' took 0.00s
+[2020.06.18-23.29.20:484][  0]LogFileCache: Scanning file cache for directory 'D:/ProjectUe/UE4_FLPS/Content/Developers/psGame/Collections/' took 0.00s
+[2020.06.18-23.29.20:484][  0]LogFileCache: Scanning file cache for directory 'D:/ProjectUe/UE4_FLPS/Content/Collections/' took 0.00s
+[2020.06.18-23.29.20:485][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.06.18-23.29.20:630][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.18-23.29.21:202][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.18-23.29.21:291][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.06.18-23.29.22:308][  0]LogSlate: Took 0.011271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.18-23.29.22:341][  0]LogSlate: Took 0.017725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.18-23.29.22:398][  0]LogSlate: Took 0.011346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.18-23.29.22:865][  0]LogRenderer: Reallocating scene render targets to support 1168x528 Format 10 NumSamples 1 (Frame:1).
+[2020.06.18-23.29.23:547][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.18-23.29.23:547][  0]LogLoad: (Engine Initialization) Total time: 60.35 seconds
+[2020.06.18-23.29.23:547][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.18-23.29.24:027][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.18-23.29.24:322][  0]LogSlate: Took 0.009250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.18-23.29.24:685][  1]LogParticles: Warning: Spawning 60000 GPU particles in one frame[2]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.25:009][  2]LogParticles: Warning: Spawning 59640 GPU particles in one frame[3]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.25:232][  4]LogParticles: Warning: Spawning 21590 GPU particles in one frame[5]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.26:009][ 15]LogAssetRegistry: Asset discovery search completed in 44.6457 seconds
+[2020.06.18-23.29.26:039][ 15]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008753 seconds (updated 0 objects)
+[2020.06.18-23.29.26:308][ 17]LogParticles: Warning: Spawning 31199 GPU particles in one frame[18]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.26:509][ 40]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.06.18-23.29.27:317][ 41]LogParticles: Warning: Spawning 60000 GPU particles in one frame[42]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.28:240][140]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (blok3)
+[2020.06.18-23.29.29:246][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.18-23.29.35:525][865]LogParticles: Warning: Spawning 49702 GPU particles in one frame[866]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.49:672][503]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2504]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.50:294][537]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2538]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.51:364][621]LogParticles: Warning: Spawning 50599 GPU particles in one frame[2622]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.51:692][622]LogParticles: Warning: Spawning 50407 GPU particles in one frame[2623]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.52:048][623]LogParticles: Warning: Spawning 50348 GPU particles in one frame[2624]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.52:347][624]LogParticles: Warning: Spawning 50105 GPU particles in one frame[2625]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.52:682][625]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2626]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.53:016][626]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2627]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.53:367][627]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2628]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.53:688][628]LogParticles: Warning: Spawning 50675 GPU particles in one frame[2629]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.54:022][629]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2630]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.54:358][630]LogParticles: Warning: Spawning 50605 GPU particles in one frame[2631]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.54:718][631]LogParticles: Warning: Spawning 50218 GPU particles in one frame[2632]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.55:025][632]LogParticles: Warning: Spawning 50001 GPU particles in one frame[2633]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.55:388][633]LogParticles: Warning: Spawning 50966 GPU particles in one frame[2634]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.55:730][634]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2635]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.56:050][635]LogParticles: Warning: Spawning 50632 GPU particles in one frame[2636]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.56:377][636]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2637]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.56:706][637]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2638]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.57:042][638]LogParticles: Warning: Spawning 50714 GPU particles in one frame[2639]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.57:378][639]LogParticles: Warning: Spawning 50413 GPU particles in one frame[2640]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.57:718][640]LogParticles: Warning: Spawning 50663 GPU particles in one frame[2641]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.58:051][641]LogParticles: Warning: Spawning 50342 GPU particles in one frame[2642]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.58:388][642]LogParticles: Warning: Spawning 50418 GPU particles in one frame[2643]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.58:731][643]LogParticles: Warning: Spawning 50768 GPU particles in one frame[2644]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.59:056][644]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2645]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.59:393][645]LogParticles: Warning: Spawning 50081 GPU particles in one frame[2646]: Rainfall_P/Particle Emitter
+[2020.06.18-23.29.59:757][646]LogParticles: Warning: Spawning 50509 GPU particles in one frame[2647]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.00:065][647]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2648]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.00:400][648]LogParticles: Warning: Spawning 50351 GPU particles in one frame[2649]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.00:745][649]LogParticles: Warning: Spawning 50578 GPU particles in one frame[2650]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.01:081][650]LogParticles: Warning: Spawning 50586 GPU particles in one frame[2651]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.01:430][651]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2652]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.01:763][652]LogParticles: Warning: Spawning 50094 GPU particles in one frame[2653]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.02:078][653]LogParticles: Warning: Spawning 50521 GPU particles in one frame[2654]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.02:426][654]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2655]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.02:756][655]LogParticles: Warning: Spawning 51023 GPU particles in one frame[2656]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.03:097][656]LogParticles: Warning: Spawning 50730 GPU particles in one frame[2657]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.03:433][657]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2658]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.03:762][658]LogParticles: Warning: Spawning 50735 GPU particles in one frame[2659]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.04:100][659]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2660]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.04:436][660]LogParticles: Warning: Spawning 50301 GPU particles in one frame[2661]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.04:777][661]LogParticles: Warning: Spawning 50847 GPU particles in one frame[2662]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.05:101][662]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2663]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.05:440][663]LogParticles: Warning: Spawning 50369 GPU particles in one frame[2664]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.05:771][664]LogParticles: Warning: Spawning 50157 GPU particles in one frame[2665]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.06:104][665]LogParticles: Warning: Spawning 50314 GPU particles in one frame[2666]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.06:446][666]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2667]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.06:776][667]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2668]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.07:105][668]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2669]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.07:437][669]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2670]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.07:771][670]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2671]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.08:105][671]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2672]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.08:460][672]LogParticles: Warning: Spawning 50027 GPU particles in one frame[2673]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.08:780][673]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2674]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.09:111][674]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2675]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.09:439][675]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2676]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.09:793][676]LogParticles: Warning: Spawning 50001 GPU particles in one frame[2677]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.10:119][677]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2678]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.10:441][678]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2679]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.10:802][679]LogParticles: Warning: Spawning 50160 GPU particles in one frame[2680]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.11:109][680]LogParticles: Warning: Spawning 50561 GPU particles in one frame[2681]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.11:453][681]LogParticles: Warning: Spawning 50161 GPU particles in one frame[2682]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.11:805][682]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2683]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.12:125][683]LogParticles: Warning: Spawning 50977 GPU particles in one frame[2684]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.12:461][684]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2685]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.12:811][685]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2686]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.13:127][686]LogParticles: Warning: Spawning 50911 GPU particles in one frame[2687]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.13:462][687]LogParticles: Warning: Spawning 50620 GPU particles in one frame[2688]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.13:821][688]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2689]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.14:158][689]LogParticles: Warning: Spawning 50492 GPU particles in one frame[2690]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.14:470][690]LogParticles: Warning: Spawning 50778 GPU particles in one frame[2691]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.14:825][691]LogParticles: Warning: Spawning 50002 GPU particles in one frame[2692]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.15:148][692]LogParticles: Warning: Spawning 50249 GPU particles in one frame[2693]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.15:473][693]LogParticles: Warning: Spawning 50011 GPU particles in one frame[2694]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.15:830][694]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2695]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.16:145][695]LogParticles: Warning: Spawning 50529 GPU particles in one frame[2696]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.16:480][696]LogParticles: Warning: Spawning 50001 GPU particles in one frame[2697]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.16:832][697]LogParticles: Warning: Spawning 50073 GPU particles in one frame[2698]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.17:152][698]LogParticles: Warning: Spawning 50491 GPU particles in one frame[2699]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.17:488][699]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2700]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.17:811][700]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2701]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.18:150][701]LogParticles: Warning: Spawning 50424 GPU particles in one frame[2702]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.18:492][702]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2703]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.18:837][703]LogParticles: Warning: Spawning 50421 GPU particles in one frame[2704]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.19:164][704]LogParticles: Warning: Spawning 50001 GPU particles in one frame[2705]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.19:514][705]LogParticles: Warning: Spawning 50529 GPU particles in one frame[2706]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.19:830][706]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2707]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.20:168][707]LogParticles: Warning: Spawning 50124 GPU particles in one frame[2708]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.20:529][708]LogParticles: Warning: Spawning 50734 GPU particles in one frame[2709]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.20:838][709]LogParticles: Warning: Spawning 50745 GPU particles in one frame[2710]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.21:167][710]LogParticles: Warning: Spawning 50106 GPU particles in one frame[2711]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.21:508][711]LogParticles: Warning: Spawning 50128 GPU particles in one frame[2712]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.21:844][712]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2713]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.22:194][713]LogParticles: Warning: Spawning 50032 GPU particles in one frame[2714]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.22:507][714]LogParticles: Warning: Spawning 50527 GPU particles in one frame[2715]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.22:837][715]LogParticles: Warning: Spawning 50007 GPU particles in one frame[2716]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.23:172][716]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2717]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.23:508][717]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2718]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.23:868][718]LogParticles: Warning: Spawning 50939 GPU particles in one frame[2719]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.24:195][719]LogParticles: Warning: Spawning 50793 GPU particles in one frame[2720]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.24:516][720]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2721]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.24:852][721]LogParticles: Warning: Spawning 50123 GPU particles in one frame[2722]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.25:186][722]LogParticles: Warning: Spawning 50355 GPU particles in one frame[2723]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.25:534][723]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2724]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.25:881][724]LogParticles: Warning: Spawning 50100 GPU particles in one frame[2725]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.26:199][725]LogParticles: Warning: Spawning 50870 GPU particles in one frame[2726]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.26:533][726]LogParticles: Warning: Spawning 50120 GPU particles in one frame[2727]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.26:891][727]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2728]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.27:202][728]LogParticles: Warning: Spawning 50862 GPU particles in one frame[2729]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.27:532][729]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2730]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.27:879][730]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2731]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.28:205][731]LogParticles: Warning: Spawning 50466 GPU particles in one frame[2732]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.28:566][732]LogParticles: Warning: Spawning 50443 GPU particles in one frame[2733]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.28:891][733]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2734]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.29:224][734]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2735]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.29:552][735]LogParticles: Warning: Spawning 50002 GPU particles in one frame[2736]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.29:876][736]LogParticles: Warning: Spawning 50701 GPU particles in one frame[2737]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.30:240][737]LogParticles: Warning: Spawning 50740 GPU particles in one frame[2738]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.30:569][738]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2739]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.30:895][739]LogParticles: Warning: Spawning 50735 GPU particles in one frame[2740]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.31:225][740]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2741]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.31:562][741]LogParticles: Warning: Spawning 50814 GPU particles in one frame[2742]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.31:927][742]LogParticles: Warning: Spawning 50785 GPU particles in one frame[2743]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.32:245][743]LogParticles: Warning: Spawning 50022 GPU particles in one frame[2744]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.32:581][744]LogParticles: Warning: Spawning 50386 GPU particles in one frame[2745]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.32:905][745]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2746]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.33:237][746]LogParticles: Warning: Spawning 50111 GPU particles in one frame[2747]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.33:569][747]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2748]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.33:907][748]LogParticles: Warning: Spawning 50874 GPU particles in one frame[2749]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.34:251][749]LogParticles: Warning: Spawning 50551 GPU particles in one frame[2750]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.34:580][750]LogParticles: Warning: Spawning 50252 GPU particles in one frame[2751]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.34:942][751]LogParticles: Warning: Spawning 51186 GPU particles in one frame[2752]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.35:248][752]LogParticles: Warning: Spawning 50000 GPU particles in one frame[2753]: Rainfall_P/Particle Emitter
+[2020.06.18-23.30.39:250][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.18-23.31.13:943][260]LogParticles: Warning: Spawning 50166 GPU particles in one frame[7261]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.14:268][261]LogParticles: Warning: Spawning 50028 GPU particles in one frame[7262]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.14:596][262]LogParticles: Warning: Spawning 50456 GPU particles in one frame[7263]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.14:937][263]LogParticles: Warning: Spawning 50257 GPU particles in one frame[7264]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.15:263][264]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7265]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.15:621][265]LogParticles: Warning: Spawning 50023 GPU particles in one frame[7266]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.15:942][266]LogParticles: Warning: Spawning 50306 GPU particles in one frame[7267]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.16:279][267]LogParticles: Warning: Spawning 50373 GPU particles in one frame[7268]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.16:635][268]LogParticles: Warning: Spawning 50093 GPU particles in one frame[7269]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.16:941][269]LogParticles: Warning: Spawning 50393 GPU particles in one frame[7270]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.17:275][270]LogParticles: Warning: Spawning 50228 GPU particles in one frame[7271]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.17:615][271]LogParticles: Warning: Spawning 50668 GPU particles in one frame[7272]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.17:951][272]LogParticles: Warning: Spawning 50496 GPU particles in one frame[7273]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.18:285][273]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7274]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.18:618][274]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7275]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.18:954][275]LogParticles: Warning: Spawning 50156 GPU particles in one frame[7276]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.19:281][276]LogParticles: Warning: Spawning 50001 GPU particles in one frame[7277]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.19:613][277]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7278]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.19:978][278]LogParticles: Warning: Spawning 50074 GPU particles in one frame[7279]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.20:284][279]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7280]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.20:616][280]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7281]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.20:952][281]LogParticles: Warning: Spawning 50001 GPU particles in one frame[7282]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.21:302][282]LogParticles: Warning: Spawning 50589 GPU particles in one frame[7283]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.21:639][283]LogParticles: Warning: Spawning 50850 GPU particles in one frame[7284]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.21:962][284]LogParticles: Warning: Spawning 50538 GPU particles in one frame[7285]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.22:294][285]LogParticles: Warning: Spawning 50004 GPU particles in one frame[7286]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.22:626][286]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7287]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.22:961][287]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7288]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.23:295][288]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7289]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.23:629][289]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7290]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.23:968][290]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7291]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.24:303][291]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7292]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.24:641][292]LogParticles: Warning: Spawning 50769 GPU particles in one frame[7293]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.24:972][293]LogParticles: Warning: Spawning 50889 GPU particles in one frame[7294]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.25:308][294]LogParticles: Warning: Spawning 50157 GPU particles in one frame[7295]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.25:665][295]LogParticles: Warning: Spawning 50321 GPU particles in one frame[7296]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.26:001][296]LogParticles: Warning: Spawning 50894 GPU particles in one frame[7297]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.26:315][297]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7298]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.26:655][298]LogParticles: Warning: Spawning 50129 GPU particles in one frame[7299]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.26:994][299]LogParticles: Warning: Spawning 50497 GPU particles in one frame[7300]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.27:335][300]LogParticles: Warning: Spawning 50838 GPU particles in one frame[7301]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.27:673][301]LogParticles: Warning: Spawning 50622 GPU particles in one frame[7302]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.27:997][302]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7303]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.28:329][303]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7304]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.28:669][304]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7305]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.28:997][305]LogParticles: Warning: Spawning 50027 GPU particles in one frame[7306]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.29:332][306]LogParticles: Warning: Spawning 50495 GPU particles in one frame[7307]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.29:668][307]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7308]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.29:999][308]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7309]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.30:337][309]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7310]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.30:683][310]LogParticles: Warning: Spawning 50705 GPU particles in one frame[7311]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.31:011][311]LogParticles: Warning: Spawning 50074 GPU particles in one frame[7312]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.31:348][312]LogParticles: Warning: Spawning 50695 GPU particles in one frame[7313]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.31:699][313]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7314]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.32:015][314]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7315]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.32:348][315]LogParticles: Warning: Spawning 50822 GPU particles in one frame[7316]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.32:697][316]LogParticles: Warning: Spawning 50145 GPU particles in one frame[7317]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.33:054][317]LogParticles: Warning: Spawning 50655 GPU particles in one frame[7318]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.33:364][318]LogParticles: Warning: Spawning 50710 GPU particles in one frame[7319]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.33:696][319]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7320]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.34:037][320]LogParticles: Warning: Spawning 50641 GPU particles in one frame[7321]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.34:378][321]LogParticles: Warning: Spawning 51018 GPU particles in one frame[7322]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.34:725][322]LogParticles: Warning: Spawning 50001 GPU particles in one frame[7323]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.35:054][323]LogParticles: Warning: Spawning 50659 GPU particles in one frame[7324]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.35:376][324]LogParticles: Warning: Spawning 50322 GPU particles in one frame[7325]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.35:733][325]LogParticles: Warning: Spawning 50437 GPU particles in one frame[7326]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.36:046][326]LogParticles: Warning: Spawning 50134 GPU particles in one frame[7327]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.36:382][327]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7328]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.36:717][328]LogParticles: Warning: Spawning 50535 GPU particles in one frame[7329]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.37:067][329]LogParticles: Warning: Spawning 50871 GPU particles in one frame[7330]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.37:387][330]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7331]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.37:715][331]LogParticles: Warning: Spawning 50000 GPU particles in one frame[7332]: Rainfall_P/Particle Emitter
+[2020.06.18-23.31.59:749][913]LogParticles: Warning: Spawning 50344 GPU particles in one frame[9914]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.00:089][914]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9915]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.00:442][915]LogParticles: Warning: Spawning 50091 GPU particles in one frame[9916]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.00:759][916]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9917]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.01:095][917]LogParticles: Warning: Spawning 50319 GPU particles in one frame[9918]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.01:432][918]LogParticles: Warning: Spawning 50522 GPU particles in one frame[9919]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.01:763][919]LogParticles: Warning: Spawning 50079 GPU particles in one frame[9920]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.02:091][920]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9921]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.02:435][921]LogParticles: Warning: Spawning 50876 GPU particles in one frame[9922]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.02:767][922]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9923]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.03:102][923]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9924]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.03:451][924]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9925]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.03:775][925]LogParticles: Warning: Spawning 50982 GPU particles in one frame[9926]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.04:107][926]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9927]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.04:447][927]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9928]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.04:770][928]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9929]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.05:103][929]LogParticles: Warning: Spawning 50217 GPU particles in one frame[9930]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.05:439][930]LogParticles: Warning: Spawning 50089 GPU particles in one frame[9931]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.05:793][931]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9932]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.06:120][932]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9933]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.06:445][933]LogParticles: Warning: Spawning 50087 GPU particles in one frame[9934]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.06:771][934]LogParticles: Warning: Spawning 50033 GPU particles in one frame[9935]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.07:132][935]LogParticles: Warning: Spawning 50213 GPU particles in one frame[9936]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.07:440][936]LogParticles: Warning: Spawning 50072 GPU particles in one frame[9937]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.07:801][937]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9938]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.08:111][938]LogParticles: Warning: Spawning 50086 GPU particles in one frame[9939]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.08:451][939]LogParticles: Warning: Spawning 50404 GPU particles in one frame[9940]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.08:804][940]LogParticles: Warning: Spawning 50246 GPU particles in one frame[9941]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.09:120][941]LogParticles: Warning: Spawning 50863 GPU particles in one frame[9942]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.09:458][942]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9943]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.09:789][943]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9944]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.10:123][944]LogParticles: Warning: Spawning 50379 GPU particles in one frame[9945]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.10:467][945]LogParticles: Warning: Spawning 50920 GPU particles in one frame[9946]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.10:800][946]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9947]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.11:124][947]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9948]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.11:459][948]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9949]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.11:813][949]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9950]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.12:146][950]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9951]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.12:467][951]LogParticles: Warning: Spawning 50910 GPU particles in one frame[9952]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.12:802][952]LogParticles: Warning: Spawning 50430 GPU particles in one frame[9953]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.13:141][953]LogParticles: Warning: Spawning 50609 GPU particles in one frame[9954]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.13:475][954]LogParticles: Warning: Spawning 50010 GPU particles in one frame[9955]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.13:809][955]LogParticles: Warning: Spawning 50431 GPU particles in one frame[9956]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.14:148][956]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9957]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.14:482][957]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9958]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.14:817][958]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9959]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.15:150][959]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9960]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.15:481][960]LogParticles: Warning: Spawning 50365 GPU particles in one frame[9961]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.15:820][961]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9962]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.16:170][962]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9963]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.16:476][963]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9964]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.16:817][964]LogParticles: Warning: Spawning 50809 GPU particles in one frame[9965]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.17:158][965]LogParticles: Warning: Spawning 50211 GPU particles in one frame[9966]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.17:488][966]LogParticles: Warning: Spawning 50607 GPU particles in one frame[9967]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.17:835][967]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9968]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.18:167][968]LogParticles: Warning: Spawning 50587 GPU particles in one frame[9969]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.18:492][969]LogParticles: Warning: Spawning 50001 GPU particles in one frame[9970]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.18:827][970]LogParticles: Warning: Spawning 50466 GPU particles in one frame[9971]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.19:161][971]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9972]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.19:510][972]LogParticles: Warning: Spawning 50088 GPU particles in one frame[9973]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.19:834][973]LogParticles: Warning: Spawning 50008 GPU particles in one frame[9974]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.20:173][974]LogParticles: Warning: Spawning 50517 GPU particles in one frame[9975]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.20:514][975]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9976]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.20:836][976]LogParticles: Warning: Spawning 50336 GPU particles in one frame[9977]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.21:187][977]LogParticles: Warning: Spawning 50934 GPU particles in one frame[9978]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.21:514][978]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9979]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.21:864][979]LogParticles: Warning: Spawning 50094 GPU particles in one frame[9980]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.22:181][980]LogParticles: Warning: Spawning 50000 GPU particles in one frame[9981]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.22:528][981]LogParticles: Warning: Spawning 50002 GPU particles in one frame[9982]: Rainfall_P/Particle Emitter
+[2020.06.18-23.32.22:851][982]LogParticles: Warning: Spawning 50075 GPU particles in one frame[9983]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.10:312][536]LogParticles: Warning: Spawning 50545 GPU particles in one frame[15537]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.10:673][537]LogParticles: Warning: Spawning 50326 GPU particles in one frame[15538]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.10:980][538]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15539]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.11:319][539]LogParticles: Warning: Spawning 50056 GPU particles in one frame[15540]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.11:671][540]LogParticles: Warning: Spawning 50014 GPU particles in one frame[15541]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.11:996][541]LogParticles: Warning: Spawning 50802 GPU particles in one frame[15542]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.12:339][542]LogParticles: Warning: Spawning 50288 GPU particles in one frame[15543]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.12:688][543]LogParticles: Warning: Spawning 50953 GPU particles in one frame[15544]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.12:997][544]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15545]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.13:334][545]LogParticles: Warning: Spawning 50306 GPU particles in one frame[15546]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.13:672][546]LogParticles: Warning: Spawning 50530 GPU particles in one frame[15547]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.13:999][547]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15548]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.14:338][548]LogParticles: Warning: Spawning 50002 GPU particles in one frame[15549]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.14:692][549]LogParticles: Warning: Spawning 50018 GPU particles in one frame[15550]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.15:018][550]LogParticles: Warning: Spawning 50903 GPU particles in one frame[15551]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.15:342][551]LogParticles: Warning: Spawning 50152 GPU particles in one frame[15552]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.15:678][552]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15553]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.16:023][553]LogParticles: Warning: Spawning 50560 GPU particles in one frame[15554]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.16:349][554]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15555]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.16:684][555]LogParticles: Warning: Spawning 50806 GPU particles in one frame[15556]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.17:042][556]LogParticles: Warning: Spawning 50113 GPU particles in one frame[15557]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.17:355][557]LogParticles: Warning: Spawning 50012 GPU particles in one frame[15558]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.17:710][558]LogParticles: Warning: Spawning 50841 GPU particles in one frame[15559]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.18:053][559]LogParticles: Warning: Spawning 50126 GPU particles in one frame[15560]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.18:363][560]LogParticles: Warning: Spawning 50524 GPU particles in one frame[15561]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.18:692][561]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15562]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.19:029][562]LogParticles: Warning: Spawning 50551 GPU particles in one frame[15563]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.19:368][563]LogParticles: Warning: Spawning 50517 GPU particles in one frame[15564]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.19:726][564]LogParticles: Warning: Spawning 50510 GPU particles in one frame[15565]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.20:032][565]LogParticles: Warning: Spawning 50000 GPU particles in one frame[15566]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.29:804][668]LogParticles: Warning: Spawning 50519 GPU particles in one frame[16669]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.30:159][669]LogParticles: Warning: Spawning 50030 GPU particles in one frame[16670]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.30:472][670]LogParticles: Warning: Spawning 50218 GPU particles in one frame[16671]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.30:812][671]LogParticles: Warning: Spawning 50211 GPU particles in one frame[16672]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.31:165][672]LogParticles: Warning: Spawning 50696 GPU particles in one frame[16673]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.31:483][673]LogParticles: Warning: Spawning 50011 GPU particles in one frame[16674]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.31:825][674]LogParticles: Warning: Spawning 50451 GPU particles in one frame[16675]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.32:174][675]LogParticles: Warning: Spawning 50258 GPU particles in one frame[16676]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.32:501][676]LogParticles: Warning: Spawning 50507 GPU particles in one frame[16677]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.32:840][677]LogParticles: Warning: Spawning 50661 GPU particles in one frame[16678]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.33:173][678]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16679]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.33:490][679]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16680]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.33:824][680]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16681]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.34:164][681]LogParticles: Warning: Spawning 50236 GPU particles in one frame[16682]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.34:506][682]LogParticles: Warning: Spawning 50716 GPU particles in one frame[16683]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.34:838][683]LogParticles: Warning: Spawning 50059 GPU particles in one frame[16684]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.35:174][684]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16685]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.35:500][685]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16686]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.35:835][686]LogParticles: Warning: Spawning 50161 GPU particles in one frame[16687]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.36:177][687]LogParticles: Warning: Spawning 50944 GPU particles in one frame[16688]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.36:531][688]LogParticles: Warning: Spawning 50520 GPU particles in one frame[16689]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.36:844][689]LogParticles: Warning: Spawning 50300 GPU particles in one frame[16690]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.37:179][690]LogParticles: Warning: Spawning 50001 GPU particles in one frame[16691]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.37:515][691]LogParticles: Warning: Spawning 50372 GPU particles in one frame[16692]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.37:854][692]LogParticles: Warning: Spawning 50148 GPU particles in one frame[16693]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.38:183][693]LogParticles: Warning: Spawning 50201 GPU particles in one frame[16694]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.38:527][694]LogParticles: Warning: Spawning 50157 GPU particles in one frame[16695]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.38:854][695]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16696]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.39:186][696]LogParticles: Warning: Spawning 50311 GPU particles in one frame[16697]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.39:523][697]LogParticles: Warning: Spawning 50195 GPU particles in one frame[16698]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.39:878][698]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16699]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.40:191][699]LogParticles: Warning: Spawning 50103 GPU particles in one frame[16700]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.40:527][700]LogParticles: Warning: Spawning 50225 GPU particles in one frame[16701]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.40:864][701]LogParticles: Warning: Spawning 50448 GPU particles in one frame[16702]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.41:204][702]LogParticles: Warning: Spawning 50850 GPU particles in one frame[16703]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.41:546][703]LogParticles: Warning: Spawning 50580 GPU particles in one frame[16704]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.41:875][704]LogParticles: Warning: Spawning 50966 GPU particles in one frame[16705]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.42:209][705]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16706]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.42:546][706]LogParticles: Warning: Spawning 50252 GPU particles in one frame[16707]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.42:881][707]LogParticles: Warning: Spawning 50566 GPU particles in one frame[16708]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.43:216][708]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16709]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.43:564][709]LogParticles: Warning: Spawning 50221 GPU particles in one frame[16710]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.43:890][710]LogParticles: Warning: Spawning 50212 GPU particles in one frame[16711]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.44:219][711]LogParticles: Warning: Spawning 50320 GPU particles in one frame[16712]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.44:550][712]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16713]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.44:885][713]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16714]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.45:223][714]LogParticles: Warning: Spawning 50199 GPU particles in one frame[16715]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.45:570][715]LogParticles: Warning: Spawning 50574 GPU particles in one frame[16716]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.45:895][716]LogParticles: Warning: Spawning 50658 GPU particles in one frame[16717]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.46:230][717]LogParticles: Warning: Spawning 50486 GPU particles in one frame[16718]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.46:566][718]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16719]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.46:903][719]LogParticles: Warning: Spawning 50479 GPU particles in one frame[16720]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.47:247][720]LogParticles: Warning: Spawning 50375 GPU particles in one frame[16721]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.47:581][721]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16722]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.47:907][722]LogParticles: Warning: Spawning 50368 GPU particles in one frame[16723]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.48:270][723]LogParticles: Warning: Spawning 50193 GPU particles in one frame[16724]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.48:573][724]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16725]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.48:916][725]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16726]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.49:247][726]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16727]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.49:581][727]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16728]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.49:911][728]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16729]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.50:241][729]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16730]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.50:577][730]LogParticles: Warning: Spawning 50117 GPU particles in one frame[16731]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.50:908][731]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16732]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.51:244][732]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16733]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.51:583][733]LogParticles: Warning: Spawning 50197 GPU particles in one frame[16734]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.51:913][734]LogParticles: Warning: Spawning 50586 GPU particles in one frame[16735]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.52:248][735]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16736]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.52:605][736]LogParticles: Warning: Spawning 50001 GPU particles in one frame[16737]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.52:919][737]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16738]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.53:247][738]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16739]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.53:580][739]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16740]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.53:913][740]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16741]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.54:249][741]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16742]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.54:580][742]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16743]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.54:913][743]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16744]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.55:268][744]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16745]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.55:583][745]LogParticles: Warning: Spawning 50593 GPU particles in one frame[16746]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.55:924][746]LogParticles: Warning: Spawning 50144 GPU particles in one frame[16747]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.56:267][747]LogParticles: Warning: Spawning 50782 GPU particles in one frame[16748]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.56:602][748]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16749]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.56:934][749]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16750]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.57:258][750]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16751]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.57:591][751]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16752]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.57:923][752]LogParticles: Warning: Spawning 50001 GPU particles in one frame[16753]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.58:269][753]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16754]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.58:589][754]LogParticles: Warning: Spawning 50066 GPU particles in one frame[16755]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.58:926][755]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16756]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.59:262][756]LogParticles: Warning: Spawning 50000 GPU particles in one frame[16757]: Rainfall_P/Particle Emitter
+[2020.06.18-23.33.59:596][757]LogParticles: Warning: Spawning 50937 GPU particles in one frame[16758]: Rainfall_P/Particle Emitter
+[2020.06.18-23.34.00:002][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.18-23.34.01:315][763]LogSlate: Window 'Save Content' being destroyed
+[2020.06.18-23.34.01:433][763]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2020.06.18-23.34.01:841][764]Cmd: QUIT_EDITOR
+[2020.06.18-23.34.01:841][764]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.18-23.34.01:894][764]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.18-23.34.01:947][764]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-23.34.02:115][764]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.18-23.34.02:169][764]LogExit: Preparing to exit.
+[2020.06.18-23.34.03:261][764]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.34.03:261][764]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.34.03:261][764]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.34.03:261][764]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.34.03:462][764]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.18-23.34.03:636][764]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-23.34.03:656][764]LogExit: Editor shut down
+[2020.06.18-23.34.03:657][764]LogExit: Transaction tracking system shut down
+[2020.06.18-23.34.05:479][764]LogExit: Object subsystem successfully closed.
+[2020.06.18-23.34.05:685][764]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.18-23.34.07:017][764]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.06.18-23.34.07:017][764]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.06.18-23.34.07:017][764]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.06.18-23.34.07:018][764]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.06.18-23.34.07:018][764]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.06.18-23.34.07:018][764]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.06.18-23.34.07:036][764]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.06.18-23.34.07:058][764]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.06.18-23.34.07:072][764]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.06.18-23.34.07:086][764]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.06.18-23.34.07:126][764]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.06.18-23.34.07:138][764]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.06.18-23.34.07:146][764]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.06.18-23.34.07:146][764]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.06.18-23.34.07:146][764]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.06.18-23.34.07:159][764]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.06.18-23.34.07:159][764]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.06.18-23.34.07:159][764]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.06.18-23.34.07:192][764]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.06.18-23.34.07:192][764]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.06.18-23.34.07:217][764]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.06.18-23.34.07:228][764]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.06.18-23.34.07:228][764]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.06.18-23.34.07:228][764]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.06.18-23.34.07:228][764]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.06.18-23.34.07:228][764]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.06.18-23.34.07:229][764]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.06.18-23.34.07:246][764]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.06.18-23.34.07:258][764]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.06.18-23.34.07:258][764]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.06.18-23.34.07:258][764]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.06.18-23.34.07:259][764]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.06.18-23.34.07:275][764]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.06.18-23.34.07:275][764]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.06.18-23.34.07:275][764]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.06.18-23.34.07:304][764]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.06.18-23.34.07:313][764]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.06.18-23.34.07:349][764]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.06.18-23.34.07:361][764]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.06.18-23.34.07:374][764]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.06.18-23.34.07:375][764]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.06.18-23.34.07:387][764]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.06.18-23.34.07:398][764]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.06.18-23.34.08:277][764]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.06.18-23.34.08:295][764]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.06.18-23.34.08:307][764]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.06.18-23.34.08:318][764]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.06.18-23.34.08:323][764]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.06.18-23.34.08:323][764]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.06.18-23.34.08:323][764]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.06.18-23.34.08:330][764]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.06.18-23.34.08:338][764]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.06.18-23.34.08:338][764]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.06.18-23.34.08:338][764]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.06.18-23.34.08:338][764]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.06.18-23.34.08:338][764]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.06.18-23.34.08:348][764]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.06.18-23.34.08:360][764]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.06.18-23.34.08:367][764]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.06.18-23.34.08:379][764]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.06.18-23.34.08:396][764]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.06.18-23.34.08:428][764]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.06.18-23.34.08:435][764]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.06.18-23.34.08:446][764]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.06.18-23.34.08:462][764]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.06.18-23.34.08:462][764]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.06.18-23.34.08:463][764]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.06.18-23.34.08:463][764]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.06.18-23.34.08:500][764]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.06.18-23.34.08:532][764]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.06.18-23.34.08:532][764]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.06.18-23.34.08:546][764]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.06.18-23.34.08:566][764]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.06.18-23.34.08:575][764]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.06.18-23.34.08:609][764]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.06.18-23.34.08:609][764]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.06.18-23.34.08:609][764]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.06.18-23.34.08:609][764]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.06.18-23.34.08:624][764]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.06.18-23.34.08:624][764]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.06.18-23.34.08:638][764]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.06.18-23.34.08:638][764]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.06.18-23.34.08:638][764]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.06.18-23.34.08:669][764]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.06.18-23.34.08:669][764]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.06.18-23.34.08:669][764]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.06.18-23.34.08:679][764]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.06.18-23.34.08:695][764]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.06.18-23.34.08:695][764]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.06.18-23.34.08:695][764]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.06.18-23.34.08:696][764]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.06.18-23.34.08:696][764]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.06.18-23.34.08:696][764]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.06.18-23.34.08:696][764]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.06.18-23.34.08:717][764]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.06.18-23.34.08:717][764]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.06.18-23.34.08:717][764]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.06.18-23.34.08:718][764]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.06.18-23.34.08:722][764]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.06.18-23.34.08:891][764]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.06.18-23.34.08:906][764]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.06.18-23.34.08:906][764]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.06.18-23.34.08:906][764]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.06.18-23.34.08:906][764]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.06.18-23.34.08:918][764]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.06.18-23.34.08:918][764]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.06.18-23.34.08:918][764]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.06.18-23.34.08:927][764]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.06.18-23.34.08:928][764]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.06.18-23.34.08:928][764]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.06.18-23.34.08:938][764]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.06.18-23.34.08:949][764]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.06.18-23.34.08:950][764]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.06.18-23.34.08:950][764]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.06.18-23.34.08:964][764]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.06.18-23.34.08:964][764]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.06.18-23.34.08:965][764]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.06.18-23.34.08:980][764]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.06.18-23.34.08:992][764]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.06.18-23.34.08:992][764]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.06.18-23.34.08:992][764]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.06.18-23.34.09:009][764]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.06.18-23.34.09:018][764]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.06.18-23.34.09:018][764]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.06.18-23.34.09:042][764]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.06.18-23.34.09:052][764]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.06.18-23.34.09:055][764]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.06.18-23.34.09:078][764]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.06.18-23.34.09:078][764]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.06.18-23.34.09:078][764]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.06.18-23.34.09:088][764]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.06.18-23.34.09:088][764]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.06.18-23.34.09:088][764]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.06.18-23.34.09:114][764]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.06.18-23.34.09:129][764]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.06.18-23.34.09:135][764]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.06.18-23.34.09:144][764]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.06.18-23.34.09:144][764]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.06.18-23.34.09:154][764]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.06.18-23.34.09:155][764]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.06.18-23.34.09:173][764]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.06.18-23.34.09:273][764]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.06.18-23.34.09:387][764]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.06.18-23.34.09:400][764]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.06.18-23.34.09:423][764]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.06.18-23.34.09:423][764]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.06.18-23.34.09:423][764]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.06.18-23.34.09:423][764]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.06.18-23.34.09:423][764]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.06.18-23.34.09:423][764]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.06.18-23.34.09:427][764]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.06.18-23.34.09:427][764]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.06.18-23.34.09:444][764]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.06.18-23.34.09:444][764]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.06.18-23.34.09:444][764]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.06.18-23.34.09:444][764]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.06.18-23.34.09:455][764]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.06.18-23.34.09:473][764]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.06.18-23.34.09:502][764]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.06.18-23.34.09:502][764]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.06.18-23.34.09:502][764]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.06.18-23.34.09:514][764]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.06.18-23.34.09:530][764]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.06.18-23.34.09:539][764]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.06.18-23.34.09:540][764]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.06.18-23.34.09:540][764]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.06.18-23.34.09:553][764]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.06.18-23.34.09:584][764]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.06.18-23.34.09:595][764]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.06.18-23.34.09:595][764]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.06.18-23.34.09:595][764]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.06.18-23.34.09:595][764]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.06.18-23.34.09:608][764]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.06.18-23.34.09:608][764]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.06.18-23.34.09:608][764]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.06.18-23.34.09:608][764]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.06.18-23.34.09:617][764]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.06.18-23.34.09:643][764]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.06.18-23.34.09:656][764]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.06.18-23.34.09:674][764]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.06.18-23.34.09:680][764]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.06.18-23.34.09:690][764]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.06.18-23.34.09:699][764]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.06.18-23.34.09:713][764]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.06.18-23.34.09:713][764]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.06.18-23.34.09:713][764]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.06.18-23.34.09:725][764]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.06.18-23.34.09:740][764]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.06.18-23.34.09:757][764]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.06.18-23.34.09:757][764]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.06.18-23.34.09:757][764]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.06.18-23.34.09:769][764]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.06.18-23.34.09:772][764]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.06.18-23.34.09:879][764]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.06.18-23.34.09:880][764]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.06.18-23.34.09:880][764]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.06.18-23.34.09:880][764]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.06.18-23.34.09:890][764]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.06.18-23.34.09:890][764]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.06.18-23.34.09:896][764]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.06.18-23.34.09:906][764]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.06.18-23.34.09:918][764]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.06.18-23.34.09:926][764]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.06.18-23.34.09:935][764]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.06.18-23.34.09:936][764]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.06.18-23.34.09:936][764]LogDerivedDataCache: Shutdown
+[2020.06.18-23.34.09:936][764]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.06.18-23.34.09:936][764]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.06.18-23.34.09:936][764]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.06.18-23.34.09:952][764]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.06.18-23.34.09:962][764]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.06.18-23.34.09:977][764]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.06.18-23.34.09:977][764]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.06.18-23.34.10:002][764]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.06.18-23.34.10:002][764]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.06.18-23.34.10:002][764]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.06.18-23.34.10:017][764]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.06.18-23.34.10:018][764]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.06.18-23.34.10:018][764]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.06.18-23.34.10:018][764]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.06.18-23.34.10:018][764]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.06.18-23.34.10:027][764]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.06.18-23.34.10:027][764]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.06.18-23.34.10:032][764]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.06.18-23.34.10:032][764]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.06.18-23.34.10:032][764]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.06.18-23.34.10:032][764]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.06.18-23.34.10:032][764]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.06.18-23.34.10:044][764]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.06.18-23.34.10:058][764]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.06.18-23.34.10:058][764]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.06.18-23.34.10:098][764]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.06.18-23.34.10:100][764]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.06.18-23.34.10:100][764]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.06.18-23.34.10:101][764]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.06.18-23.34.10:101][764]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.06.18-23.34.10:101][764]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.06.18-23.34.10:102][764]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.06.18-23.34.10:109][764]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.06.18-23.34.10:134][764]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.06.18-23.34.10:134][764]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.06.18-23.34.10:134][764]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.06.18-23.34.10:134][764]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.06.18-23.34.10:146][764]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.06.18-23.34.10:146][764]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.06.18-23.34.10:146][764]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.06.18-23.34.10:163][764]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.18-23.34.10:163][764]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.06.18-23.34.10:173][764]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.06.18-23.34.10:173][764]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.06.18-23.34.10:173][764]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.06.18-23.34.10:174][764]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.06.18-23.34.10:214][764]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.06.18-23.34.10:226][764]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.06.18-23.34.10:248][764]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.06.18-23.34.10:248][764]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.18-23.34.10:248][764]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B38528472-4481-D0A6-C62E-4FBA39CB93E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=51de62e640d0cf555f12ed992b025986%7C94a3fb1149474e48980088dc253352e4%7Ccfc3d313-5c36-446f-b204-05fcee596df0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.06.18-23.34.10:267][764]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.06.18-23.34.10:268][764]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.06.18-23.34.10:285][764]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.06.18-23.34.10:286][764]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.06.18-23.34.10:286][764]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.06.18-23.34.10:286][764]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.06.18-23.34.10:287][764]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.06.18-23.34.10:287][764]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.06.18-23.34.10:287][764]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.06.18-23.34.10:341][764]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.06.18-23.34.10:341][764]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.18-23.34.10:341][764]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.18-23.34.10:353][764]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.18-23.34.10:353][764]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.18-23.34.10:368][764]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.18-23.34.10:375][764]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.18-23.34.10:375][764]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.18-23.34.10:375][764]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.18-23.34.10:405][764]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.18-23.34.10:412][764]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.18-23.34.10:412][764]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.18-23.34.10:430][764]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.18-23.34.10:446][764]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.18-23.34.10:446][764]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.18-23.34.10:446][764]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.18-23.34.10:457][764]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.18-23.34.10:457][764]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.18-23.34.10:466][764]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.18-23.34.10:477][764]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.18-23.34.10:477][764]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.18-23.34.10:478][764]LogD3D11RHI: Shutdown
+[2020.06.18-23.34.10:478][764]LogD3D11RHI: CleanupD3DDevice
+[2020.06.18-23.34.10:529][764]LogExit: Exiting.
+[2020.06.18-23.34.10:549][764]Log file closed, 06/19/20 01:34:10
